@@ -1,4 +1,4 @@
-alert("Hola. Este programa simula una versión unipersonal de un cadaver exquisito");
+alert("Hola. Este programa simula una versión unipersonal de un cadáver exquisito");
 
 let jugarONo = prompt("¿Quiere comenzar? Escriba 'S' o 's' en caso afirmativo. Escriba cualquier otra cosa para salir")
 
